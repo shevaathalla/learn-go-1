@@ -1,0 +1,6 @@
+# environment
+.env
+
+# build
+/build
+
